@@ -5,3 +5,4 @@ Make sure to follow the steps as outlined in the article to see how to use Netli
 
 You're free to make changes on your own branch, but for the sake of consistency, we will not be merging any external pull requests. Thank you and happy coding!
 https://tubular-malasada-d8337e.netlify.app/
+This project was stritly done by following the steps in the article provided by codeacademy.
